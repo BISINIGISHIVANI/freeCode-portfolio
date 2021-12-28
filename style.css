@@ -1,0 +1,8 @@
+#navbar{
+    position: fixed;
+    display: block;
+    height: 100vw;
+}
+@media screen and (min-width:480px){
+    #welcome-section{text-align:center}
+}
